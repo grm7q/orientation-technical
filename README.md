@@ -3,6 +3,8 @@
 
 ## The Checklist
 
+edit
+
 **NB: if you have already competed an item there is no nead to repeat it, except for item 8**
 
 0. **watch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
